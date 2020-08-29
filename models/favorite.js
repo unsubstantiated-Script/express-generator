@@ -17,4 +17,4 @@ const favoriteSchema = new Schema({
 
 
 const Favorite = mongoose.model('Favorite', favoriteSchema);
-module.exports = Campsite;
+module.exports = Favorite;
